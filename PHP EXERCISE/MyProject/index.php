@@ -1,0 +1,9 @@
+<?php
+
+
+echo " Hi everyone!"
+
+
+
+
+?>
